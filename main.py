@@ -25,7 +25,7 @@ mnemonic_2 = "already six hello want allow vacuum three great city fetch slow pr
 
 # user declared algod connection parameters
 algod_address = "https://testnet-algorand.api.purestake.io/ps2"
-algod_token = "nq1M8RDrIK6CqmXvgdctW1mvuhvgI3nLO2bAk8Aa"
+algod_token = "Enter your purestake api key here"
 
 headers = {
     "X-API-Key": algod_token,
