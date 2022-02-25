@@ -16,7 +16,8 @@ Distributed payments - Payments to multiple recipients.
 Pooled transaction fees - One transaction pays the fees of others.
 
 
-# INIT
+### With ATOMIC SWAP, we can be able to 
+
 (a) Loading two existing accounts...
 (b) Create a new account
 (c) Generate a mnemonic for the created account
