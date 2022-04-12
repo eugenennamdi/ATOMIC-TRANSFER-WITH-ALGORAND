@@ -20,9 +20,8 @@ from algosdk import account
 # Replace the algod_address and algod_token parameters below to connect to your API host.
 
 # user declared account mnemonics for account1 and account2
-mnemonic_1 = "upgrade arctic vanish connect title embody hair tornado bullet cry truck swear catalog rail rigid increase mandate cage frame isolate shadow fun choose able biology"
-mnemonic_2 = "already six hello want allow vacuum three great city fetch slow protect describe secret digital mansion motion safe pair dog cool salmon brick about waste"
-
+mnemonic_1 = ""
+mnemonic_2 = ""
 # user declared algod connection parameters
 algod_address = "https://testnet-algorand.api.purestake.io/ps2"
 algod_token = "Enter your purestake api key here"
